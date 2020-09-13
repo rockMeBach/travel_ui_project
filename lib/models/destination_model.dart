@@ -27,7 +27,7 @@ List<Activity> activities = [
   ),
   Activity(
     imageUrl: 'assets/images/gondola.jpg',
-    name: 'Walking Tour and Gonadola Ride',
+    name: 'Walking Tour and Gondola Ride',
     type: 'Sightseeing Tour',
     startTimes: ['11:00 pm', '1:00 pm'],
     rating: 4,
